@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.detail-user {
+  border: 1px solid white;
+}
+.form {
+  margin: 0 1rem;
+}
+.form-container input {
+  width: auto;
+  height: 2rem;
+}
